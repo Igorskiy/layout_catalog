@@ -161,7 +161,8 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  padding: 25px 0; }
+  padding: 25px 0;
+  max-width: 1200px; }
 
 .product-card {
   margin: 25px 24px; }
