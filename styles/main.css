@@ -22,8 +22,7 @@
   border-radius: 5px;
   -webkit-box-align: center;
       -ms-flex-align: center;
-          align-items: center;
-  margin-bottom: 50px; }
+          align-items: center; }
   .product-card__content-photo {
     width: 160px;
     height: 134px;
